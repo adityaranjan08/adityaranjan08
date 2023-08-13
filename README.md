@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaranjan08&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjan08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaranjan08" alt="adityaranjan08" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityaranjan_08" target="blank"><img src="https://img.shields.io/twitter/follow/adityaranjan_08?logo=twitter&style=for-the-badge" alt="adityaranjan_08" /></a> </p>
 
