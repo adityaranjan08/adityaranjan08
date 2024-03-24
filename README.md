@@ -3,9 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaranjan08&label=Profile%20views&color=0e75b6&style=flat" alt="adityaranjan08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adityaranjan_08" target="blank"><img src="https://img.shields.io/twitter/follow/adityaranjan_08?logo=twitter&style=for-the-badge" alt="adityaranjan_08" /></a> </p>
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook1.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter1.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][4]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github1.png (Github))][5]
+[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest1.png (Pinterest))][6]
 
-![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))  https://www.instagram.com/adityasinhaf
+[1]: https://www.facebook.com/adityaa8/
+[2]: https://www.instagram.com/adityasinhaf
+[3]: https://www.twitter.com/adityaranjan_08
+[4]: https://www.linkedin.com/in/aditya-ranjan08/
+[5]: https://www.github.com/adityaranjan08
+[6]: https://in.pinterest.com/adityaranjan92
+
 
 - 💬 Ask me about **Angular,Java,Spring Boot,HTML,CSS,MySQL**
 
