@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/adityaranjan_08" target="blank"><img src="https://img.shields.io/twitter/follow/adityaranjan_08?logo=twitter&style=for-the-badge" alt="adityaranjan_08" /></a> </p>
 
+<p align="left"> <a href="https://instagram.com/adityasinhaf" target="blank"><img src="https://img.shields.io/instagram/follow/adityasinhaf?logo=instagram&style=for-the-badge" alt="adityasinhaf" /></a> </p>
+
 - 💬 Ask me about **Angular,Java,Spring Boot,HTML,CSS,MySQL**
 
 - 📫 How to reach me **adityaranjan92@gmail.com**
