@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityaranjan_08" target="blank"><img src="https://img.shields.io/twitter/follow/adityaranjan_08?logo=twitter&style=for-the-badge" alt="adityaranjan_08" /></a> </p>
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]  https://www.instagram.com/adityasinhaf
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))]  https://www.instagram.com/adityasinhaf
 
 - 💬 Ask me about **Angular,Java,Spring Boot,HTML,CSS,MySQL**
 
