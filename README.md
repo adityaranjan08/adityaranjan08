@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **adityaranjan92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DBopmhML2Hsj6rgHrG8Zo5CezgSI6N9V/view?usp=sharing](https://drive.google.com/file/d/1DBopmhML2Hsj6rgHrG8Zo5CezgSI6N9V/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DBopmhML2Hsj6rgHrG8Zo5CezgSI6N9V/view?usp=sharing](https://drive.google.com/file/d/1mWYNKzJYhDylzmrduDQ0RZoXidtcRpZM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
