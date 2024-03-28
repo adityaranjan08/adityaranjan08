@@ -18,7 +18,7 @@
 [6]: https://in.pinterest.com/adityaranjan92
 
 
-- 💬 Ask me about **Angular,Java,Spring Boot,HTML,CSS,MySQL**
+- 💬 Ask me about **Angular,Java,Spring Boot,HTML,CSS,MySQL,Tableau**
 
 - 📫 How to reach me **adityaranjan92@gmail.com**
 
